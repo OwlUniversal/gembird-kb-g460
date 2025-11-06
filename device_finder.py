@@ -23,5 +23,3 @@ else:
         print(f"  Usage Page: 0x{device_dict['usage_page']:04x}")
         print(f"  Usage: 0x{device_dict['usage']:04x}")
         print("-" * 25)
-
-print("\nPlease copy and paste this entire output in your reply.")
