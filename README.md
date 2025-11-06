@@ -37,7 +37,7 @@ To set a uniform static color on the Gembird KB-G460:
 
 ## Scripts & Usage
 
-This repository contains the scripts used and developed during this research. The main control script is `final_working_script.py`.
+This repository contains the scripts used and developed during this research. The main control script is `normal_test_keyboard_6.py`.
 
 **1. Install Dependencies:**
 ```bash
